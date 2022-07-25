@@ -1,0 +1,18 @@
+.icon {
+   /* padding-top: 20px; */
+   margin-left: 10px;
+   color:#32CD32;
+   visibility: hidden;
+   /* background-color: red; */
+   transform: translateY(12px);
+}
+
+
+.wrapper:hover .icon {
+   visibility: visible ;
+
+}
+
+.iconNone {
+   visibility: hidden;
+}
