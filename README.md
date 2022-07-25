@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-Tdo create NODE_module
+To create NODE_module
 
 ### `npm start`
 
